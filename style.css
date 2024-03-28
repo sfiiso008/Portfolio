@@ -408,9 +408,9 @@ section {
 }
 
 .project-img {
-	border-radius: 2rem;
-	width: 90%;
-	height: 90%;
+	border-radius: 0.1rem;
+	width: 30rem;
+	height: 15rem;
 }
 
 .project-title {
